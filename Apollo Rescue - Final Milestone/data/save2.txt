@@ -1,0 +1,8 @@
+Level1,0,0,0,0,0,100
+Level1
+Pipes : 0
+Bags : 0
+Tape : 0
+Canisters : 0
+Cardboard : 0
+HP : 100
