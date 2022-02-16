@@ -1,6 +1,3 @@
-/* Student name: Michal Kaszubski               
-Student username: adbs919              
-*/
 
 /* SECTION 1 CREATE TABLE STATEMENTS */
 
